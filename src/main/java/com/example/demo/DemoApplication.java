@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("Demo first");
 		System.out.println("Demo second");
 		System.out.println("Demo Third"); 
+		System.out.println("Demo fourth"); 
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
